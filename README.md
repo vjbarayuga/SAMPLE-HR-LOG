@@ -1,0 +1,1 @@
+# SAMPLE-HR-LOG
